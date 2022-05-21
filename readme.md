@@ -73,8 +73,8 @@ _Instruction how to run this project_
    ```sh
    npm install
    ```
-3. Run The Project`
-   ``sh
+3. Run The Project
+   ```sh
    npm run android
    ```
 
